@@ -22,9 +22,9 @@ public class Lab {
      */
     public int ifExample(boolean bool, int x, int y){
         if(bool){
-            return x;
+            return int x;
         } else {
-            return y;
+            return int y;
         }
     }
 }
